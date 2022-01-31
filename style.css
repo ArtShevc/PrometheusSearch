@@ -1,0 +1,106 @@
+A {
+    text-decoration: none;
+	color: white;
+	margin: 10px;
+   } 
+
+A:hover { 
+    text-decoration: underline; 
+   }
+
+A:visited {
+	color: white;
+}
+
+P {
+	margin: 0;
+	color: rgb(221, 221, 221);
+}
+   
+.block1 {
+	text-align: right;
+	height: 60px;
+	margin-top: 20px;
+	margin-right: 60px;
+}
+
+.block2 {
+	height: 290px;
+	line-height: 290px;
+    text-align: center;
+}
+
+.block2 img {
+    vertical-align: bottom; 
+}
+
+.block3 {
+	height: 40px;
+	line-height: 40px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+
+
+.block3 span {
+	height: 20px;
+	line-height: 20px;
+}
+
+.block3 img {
+	height: 15px;
+	width: 15px;
+	margin-top: 13px;
+	margin-left: 5px;
+	position:absolute
+}
+
+.block3 input {
+    vertical-align: top; 
+	width: 492px;
+	height: 28px;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius:100px;
+	background: rgb(36, 36, 36);
+	box-shadow:0 0 15px 4px rgba(255, 255, 255, 0.06);
+}
+
+.block3 input:hover{
+	background: rgb(51, 51, 51) ;
+}
+
+.block4 {
+	height: 40px;
+	line-height: 40px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.block4 input {
+    vertical-align: top;
+	margin: 10px;
+	border-radius:  5px;
+	background: rgb(63, 63, 63) ;  
+    color: white; 
+}
+
+.block4 input:hover {
+	border-color:  azure;
+}
+
+.block5 {
+	height: 20px;
+	line-height: 20px;
+	margin: 10px;
+}
+
+.block5 a {
+    color: rgb(137, 137, 255); 
+}
+
+
+
